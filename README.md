@@ -1,6 +1,6 @@
 # Trial-Dashboard
 Trial Dashboard
-<!DOCTYPE html>
+
 <html>
 <head>
     <title>My Power BI Dashboard</title>
